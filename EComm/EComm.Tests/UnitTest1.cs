@@ -1,5 +1,6 @@
 using EComm.DataAccess;
 using EComm.Model;
+using EComm.Web.Controllers;
 using Microsoft.EntityFrameworkCore;
 using System;
 using Xunit;
@@ -18,8 +19,10 @@ namespace EComm.Tests
         public void ProductDetails()
         {
             // Arrange
+            var controller = new ProductController(CreateStubContext());
 
             // Act
+
 
             // Asser
         }
