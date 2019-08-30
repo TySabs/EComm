@@ -1,0 +1,12 @@
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.deps.json
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.dll
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.DataAccess.pdb
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\bin\Debug\netstandard2.0\EComm.Model.pdb
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csprojAssemblyReference.cache
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.AssemblyInfoInputs.cache
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.AssemblyInfo.cs
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.csproj.CopyComplete
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.dll
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.DataAccess\obj\Debug\netstandard2.0\EComm.DataAccess.pdb

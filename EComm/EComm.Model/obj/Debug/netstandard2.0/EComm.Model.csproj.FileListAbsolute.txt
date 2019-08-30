@@ -1,0 +1,9 @@
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.deps.json
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\bin\Debug\netstandard2.0\EComm.Model.pdb
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.csprojAssemblyReference.cache
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.csproj.CoreCompileInputs.cache
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.AssemblyInfoInputs.cache
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.AssemblyInfo.cs
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.dll
+C:\Users\tyler.saballus\Desktop\dotnet\Ecomm\EComm.Model\obj\Debug\netstandard2.0\EComm.Model.pdb
